@@ -1,6 +1,5 @@
 package com.verifone.model;
 
-import lombok.Data;
 
 public class Employee {
     public long id;
