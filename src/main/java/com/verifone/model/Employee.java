@@ -2,11 +2,10 @@ package com.verifone.model;
 
 import lombok.Data;
 
-@Data
 public class Employee {
-    private long id;
-    private String userName;
-    private String password;
-    private String email;
-    private String mobile;
+    public long id;
+    public String userName;
+    public String password;
+    public String email;
+    public String mobile;
 }
